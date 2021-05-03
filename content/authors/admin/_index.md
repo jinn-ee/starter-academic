@@ -18,8 +18,8 @@ bio: My research interests include CyberSecurity SEO, OSINT and Web Development
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- CyberSecurity
+- Open-source Intelligence
 - Information Retrieval
 
 # Education to show in About widget
